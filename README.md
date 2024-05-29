@@ -49,8 +49,8 @@
 ---
 
 ### 📫 How to reach me:
-- Email: anurag1045@example.com
-- LinkedIn: [Anurag Reddy Karnati](https://www.linkedin.com/in/anuragreddykarnati)
+- Email: anuragreddy1045@gmail.com
+- LinkedIn: [Anurag Reddy Karnati](https://www.linkedin.com/in/anurag45/)
 
 ---
 
