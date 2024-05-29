@@ -1,4 +1,5 @@
-![Header](file:///C:/Users/anura/Downloads/46807cff-64c8-4bee-9691-23acecb62476.webp)
+![Header](![Screenshot 2024-05-29 015752](https://github.com/Anurag1045/Anurag1045/assets/65644371/42fbe0b2-b272-4c6b-b838-adbd737c1d87)
+)
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
