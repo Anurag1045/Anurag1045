@@ -1,5 +1,4 @@
-![Header](![Screenshot 2024-05-29 015752](https://github.com/Anurag1045/Anurag1045/assets/65644371/42fbe0b2-b272-4c6b-b838-adbd737c1d87)
-)
+(![Screenshot 2024-05-29 015752](https://github.com/Anurag1045/Anurag1045/assets/65644371/42fbe0b2-b272-4c6b-b838-adbd737c1d87)
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
