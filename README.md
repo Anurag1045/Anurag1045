@@ -1,4 +1,4 @@
-![Header](https://via.placeholder.com/1200x400?text=Welcome+to+Anurag%27s+Tech+World!+Data+Science+Enthusiast)
+![Header](https://raw.githubusercontent.com/Anurag1045/Anurag1045/main/images/A_header_image_for_a_GitHub_profile_of_a_data_scie.png)
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
