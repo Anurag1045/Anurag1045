@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Anurag1045/Anurag1045/main/images/A_header_image_for_a_GitHub_profile_of_a_data_scie.png)
+![Header](file:///C:/Users/anura/Downloads/46807cff-64c8-4bee-9691-23acecb62476.webp)
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
