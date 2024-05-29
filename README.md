@@ -1,4 +1,4 @@
-![Header](https://via.placeholder.com/1200x400?text=Welcome+to+Anurag%27s+GitHub)
+![Header](https://via.placeholder.com/1200x400?text=Welcome+to+Anurag%27s+Tech+World!+Data+Science+Enthusiast)
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
@@ -27,27 +27,25 @@
 
 ### 📌 Pinned Repositories
 
-<a href="https://github.com/Anurag1045/Spotify_Top_50_Data_Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag1045&repo=Spotify_Top_50_Data_Analysis&theme=radical" />
-</a>
-<a href="https://github.com/Anurag1045/My_Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag1045&repo=My_Portfolio&theme=radical" />
-</a>
-<a href="https://github.com/Anurag1045/Super_Market_Sales">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag1045&repo=Super_Market_Sales&theme=radical" />
-</a>
-<a href="https://github.com/Anurag1045/Boston_Housing_Pricing">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag1045&repo=Boston_Housing_Pricing&theme=radical" />
-</a>
-<a href="https://github.com/Anurag1045/ECommerce-PowerBI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag1045&repo=ECommerce-PowerBI&theme=radical" />
-</a>
-<a href="https://github.com/Anurag1045/Netflix-Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Anurag1045&repo=Netflix-Dashboard&theme=radical" />
-</a>
+#### [Spotify_Top_50_Data_Analysis](https://github.com/Anurag1045/Spotify_Top_50_Data_Analysis)
+Data analysis project on the top 50 songs on Spotify using Jupyter Notebook.
+
+#### [My_Portfolio](https://github.com/Anurag1045/My_Portfolio)
+A personal portfolio website built with JavaScript to showcase my projects and skills.
+
+#### [Super_Market_Sales](https://github.com/Anurag1045/Super_Market_Sales)
+Data Science project on Super Market Sales Analysis using Jupyter Notebook.
+
+#### [Boston_Housing_Pricing](https://github.com/Anurag1045/Boston_Housing_Pricing)
+Analysis and prediction of housing prices in Boston using Jupyter Notebook.
+
+#### [ECommerce-PowerBI](https://github.com/Anurag1045/ECommerce-PowerBI)
+Data visualization project for an eCommerce dataset using Power BI.
+
+#### [Netflix-Dashboard](https://github.com/Anurag1045/Netflix-Dashboard)
+Interactive dashboard for analyzing Netflix data.
 
 ---
-
 ### 📫 How to reach me:
 - Email: anuragreddy1045@gmail.com
 - LinkedIn: [Anurag Reddy Karnati](https://www.linkedin.com/in/anurag45/)
