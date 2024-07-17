@@ -1,4 +1,4 @@
-![Screenshot 2024-05-29 022356](https://github.com/Anurag1045/Anurag1045/assets/65644371/91c62602-0c34-45f3-bf10-e20e4f61db81)
+![image]("C:\Users\anura\Downloads\data-scientist2.jpg")
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
