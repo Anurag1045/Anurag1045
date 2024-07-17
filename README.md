@@ -1,4 +1,4 @@
-![image]("C:\Users\anura\Downloads\data-scientist2.jpg")
+![Data Scientist](data-scientist2.jpg)
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
