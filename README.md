@@ -1,4 +1,4 @@
-![Data Scientist](data-scientist2.jpg)
+<img src="data-scientist2.jpg" alt="Data Scientist" width="1200"/>
 
 ### Hi there 👋, I'm K. Anurag Reddy!
 
