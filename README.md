@@ -23,8 +23,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag1045&show_icons=true&theme=radical)
-
 ### 📌 Pinned Repositories
 
 #### [Spotify_Top_50_Data_Analysis](https://github.com/Anurag1045/Spotify_Top_50_Data_Analysis)
@@ -58,5 +56,3 @@ Interactive dashboard for analyzing Netflix data.
 
 ---
 
-### ⚡ Fun fact:
-I love to play cricket and explore new technologies in my free time!
